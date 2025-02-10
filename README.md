@@ -22,36 +22,40 @@ Currently, I'm working at **OrientSwiss SA**, where I focus on optimizing system
 - Migrated legacy features to **GoLang microservices**, improving app efficiency.
 - Conducted **code reviews** and mentored developers to ensure coding standards. -->
 
-## 🛠️ Technologies & Tools
+<!-- ## 🛠️ Technologies & Tools
 - **Languages**: `PHP` `GoLang` `JavaScript`
 - **Frontend**: `ReactJS` `HTML` `CSS`
 - **Backend**: `Symfony` `Laravel`
 - **Databases**: `MySQL` `PostgreSQL`
 - **DevOps**: `Docker` `Kubernetes`
-- **Others**: `Kafka` `Redis` `REST APIs`
+- **Others**: `Kafka` `Redis` `REST APIs` -->
 
-<!-- ## 🛠️ Tech Stack
-### Programming Languages
+## 🛠️ Tech Stack
+### Backend Technologies
+
 ![Go](https://img.shields.io/badge/-golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Libraries
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-339933?style=for-the-badge&logo=symfony&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-%23000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
+### Frontend Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Protractor.js](https://img.shields.io/badge/-Protractor-%23E26A6A?style=for-the-badge&logo=protractor&logoColor=white)
 
 ### DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### DevOps
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### Monitoring & Analytics
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### **Databases**: 
-![MySQL](https://img.shields.io/badge/-MySQL-231F20?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-231F20?style=for-the-badge&logo=PostgreSQL&logoColor=white) -->
 
 ## 📚 Blog & Writing
 I write about **software development, best practices, and technology trends** on my personal blog:
