@@ -4,9 +4,9 @@
 <img width="100%" height = "300px" src="https://cdn.pixabay.com/photo/2017/10/16/08/53/cat-2856531_1280.jpg" alt="cover" />
 </div>
 
-
 ## 🚀 About Me
-I'm a **Senior Software Engineer** with over **9 years of experience** in **Full Stack Development**.Passionate about writing clean, scalable, and efficient code, I specialize in **PHP, GoLang, ReactJS**, and various backend and frontend technologies.
+
+I'm a **Senior Software Engineer** with over **9 years of experience** in **Full Stack Development**. Passionate about writing clean, scalable, and efficient code, I specialize in **PHP, GoLang**, and various backend and frontend technologies.
 
 Currently, I'm working at **OrientSwiss SA**, where I focus on optimizing system architecture, developing scalable microservices, and improving application performance.
 
@@ -60,8 +60,7 @@ I write about **software development, best practices, and technology trends** on
 ## ✨ Other things
 
 - I enjoy photography and content creation.
-- I love sharing knowledge through public speaking and writing articles.
-- I'm a big Naruto fan
+- I enjoy sharing knowledge both individually and in groups, as well as through writing articles.
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufiyan-malek/)
