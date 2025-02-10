@@ -1,87 +1,80 @@
-### Hi there 👋
-
-<!--
-**sufimalek/sufimalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Hi, I'm Sufiyan Malek 👋
 
 <div align="center">
 <img width="100%" height = "300px" src="https://cdn.pixabay.com/photo/2017/10/16/08/53/cat-2856531_1280.jpg" alt="cover" />
 </div>
 
-<!-- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) -->
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+## 🚀 About Me
+I'm a **Senior Software Engineer** with over **9 years of experience** in **Full Stack Development**.Passionate about writing clean, scalable, and efficient code, I specialize in **PHP, GoLang, ReactJS**, and various backend and frontend technologies.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Bakhshi-Faisal.Bakhshi-Faisal)
+Currently, I'm working at **OrientSwiss SA**, where I focus on optimizing system architecture, developing scalable microservices, and improving application performance.
 
-</p>
-<div size='20px'> Hi! My name is Sufiyan Malek. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+<!-- ## 💼 Professional Experience
+- **Senior Software Engineer at OrientSwiss SA**
+- Previously worked at **Consumer Sketch, Russmedia Tech, and OfficeBeacon**
+- Designed and implemented in-house systems, reducing third-party tool costs by 100%
+- Migrated features to **GoLang**, improving system efficiency using **Kafka queues**
+- Enhanced **admin, merchant back-office, and mobile API** modules
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+## 📈 Achievements & Contributions
+- Implemented an **in-house notification system**, eliminating third-party tool costs.
+- Migrated legacy features to **GoLang microservices**, improving app efficiency.
+- Conducted **code reviews** and mentored developers to ensure coding standards. -->
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+## 🛠️ Technologies & Tools
+- **Languages**: `PHP` `GoLang` `JavaScript`
+- **Frontend**: `ReactJS` `HTML` `CSS`
+- **Backend**: `Symfony` `Laravel`
+- **Databases**: `MySQL` `PostgreSQL`
+- **DevOps**: `Docker` `Kubernetes`
+- **Others**: `Kafka` `Redis` `REST APIs`
 
-- 🔭 I’m currently working on a big scale project in a private company
+<!-- ## 🛠️ Tech Stack
+### Programming Languages
+![Go](https://img.shields.io/badge/-golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 🌱 I’m currently learning GoLang, Docker
+### Frameworks & Libraries
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-339933?style=for-the-badge&logo=symfony&logoColor=white)
 
-- 👯 I’m looking to collaborate on Symfony and JavaScript
+### DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<!-- - 💬 Ask me about Symfony, web development, API -->
+### DevOps
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-- 💬 Talk to me about Symfony, Redis, Open Source and cricket
+### **Databases**: 
+![MySQL](https://img.shields.io/badge/-MySQL-231F20?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-231F20?style=for-the-badge&logo=PostgreSQL&logoColor=white) -->
 
+## 📚 Blog & Writing
+I write about **software development, best practices, and technology trends** on my personal blog:
+🔗 [Visit my blog](https://sufimalek.github.io/)
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/php.svg'> </a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=symfony&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/symfony.svg'> </a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/laravel.svg'> </a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/redis.svg'> </a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/solr.svg'> </a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/javascript.svg'> </a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=vuejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/reactjs.svg'>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/redux.svg'> </a></a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=vagrant&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/docker.svg'> </a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/mysql.svg'> </a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/postgresql.svg'> </a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/postman.svg'> </a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/html.svg'> </a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/bootstrap.svg'> </a>
+## ✨ Other things
 
+- I enjoy photography and content creation.
+- I love sharing knowledge through public speaking and writing articles.
+- I'm a big Naruto fan
 
-<h2> Stuff I worked on last month  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/php.svg'> </a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/symfony.svg'> </a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/laravel.svg'> </a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/go.svg'> </a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/rpa-robotic-process-automation.svg'> </a>
-<a href= https://github.com/sufimalek?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/jenkins.svg'> </a>
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/sufimalek/sufimalek/main/icons/handshake.gif' width="100px"> </h2>
-<a target="_blank" href="https://www.linkedin.com/in/sufiyanmalek/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="mailto:sufiyanmalek78@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://twitter.com/suf_malek"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://medium.com/@maleksufiyan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufiyan-malek/)
+[![instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suf_malek)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sufimalek)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+💡 *Always open to collaborations, learning opportunities, and interesting discussions in tech!*
+
+⭐ **Feel free to explore my repositories and connect with me!**
+
+<h2> My GitHub Stats </h2>
 
 ![Sufiyan](https://github-readme-stats.vercel.app/api?username=sufimalek&count_private=true&show_icons=true&theme=dark)
 
@@ -90,3 +83,4 @@ Here are some ideas to get you started:
   <h2> Some Programming Humor for you </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
+
