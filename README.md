@@ -77,6 +77,14 @@ I write about **software development, best practices, and technology trends** on
 
 ⭐ **Feel free to explore my repositories and connect with me!**
 
+### 🌟 Connect with My Blog  
+👋 Hey there! Explore my blog for tech insights, tutorials, wiki, and inspiration.
+
+🔗 [Visit My Blog](https://sufimalek.github.io)
+<div>
+  <a href="https://sufimalek.github.io/" target="_blank"><img width="100%" height = "250px" src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/img/Sufiyan_Malek_Blog.png'></a>
+</div>
+
 <h2> My GitHub Stats </h2>
 
 ![Sufiyan](https://github-readme-stats.vercel.app/api?username=sufimalek&count_private=true&show_icons=true&theme=dark)
