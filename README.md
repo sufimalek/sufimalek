@@ -58,8 +58,11 @@ Currently, I'm working at **OrientSwiss SA**, where I focus on optimizing system
 
 
 ## 📚 Blog & Writing
-I write about **software development, best practices, and technology trends** on my personal blog:
+I write about **software development, best practices, wiki, inspiration, and technology trends** on my personal blog:
 🔗 [Visit my blog](https://sufimalek.github.io/)
+<div>
+  <a href="https://sufimalek.github.io/" target="_blank"><img width="100%" height = "250px" src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/img/Sufiyan_Malek_Blog.png'></a>
+</div>
 
 ## ✨ Other things
 
@@ -76,14 +79,6 @@ I write about **software development, best practices, and technology trends** on
 💡 *Always open to collaborations, learning opportunities, and interesting discussions in tech!*
 
 ⭐ **Feel free to explore my repositories and connect with me!**
-
-### 🌟 Connect with My Blog  
-👋 Hey there! Explore my blog for tech insights, tutorials, wiki, and inspiration.
-
-🔗 [Visit My Blog](https://sufimalek.github.io)
-<div>
-  <a href="https://sufimalek.github.io/" target="_blank"><img width="100%" height = "250px" src ='https://raw.githubusercontent.com/sufimalek/sufimalek/main/img/Sufiyan_Malek_Blog.png'></a>
-</div>
 
 <h2> My GitHub Stats </h2>
 
