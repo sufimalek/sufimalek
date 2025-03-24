@@ -55,7 +55,7 @@ Currently, I'm working at **OrientSwiss SA**, where I focus on optimizing system
 
 ### Monitoring & Analytics
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
 
 ## 📚 Blog & Writing
 I write about **software development, best practices, wiki, inspiration, and technology trends** on my personal blog:
